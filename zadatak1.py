@@ -1,1 +1,1 @@
-print("Cao ja sam Luka bog zena i pica")
+print("Cao ja sam Mare igram lulu i nami na supporta")
