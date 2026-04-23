@@ -1,0 +1,1 @@
+print("Cao ja sam Luka bog zena i pica")
